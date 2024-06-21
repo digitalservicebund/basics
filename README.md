@@ -1,0 +1,5 @@
+🇩🇪
+Dieses Repository enthält Grafiken und Illustierungen zur Visualisierung von Justiz- oder Verwaltungsdiensten, Basiskomponenten und -diensten, Dateiverzeichnissen, Cloud-Infrastrukturen und Richtlinien. Die Grafiken entstanden während eines Forschungsprojekts zu Basiskomponenten und -diensten in Deutschland (mehr Informationen zum Projekt: https://digitalservice.bund.de/blog/sieben-huerden-und-unzaehlige-chancen-bei-basiskomponenten-in-deutschland.). Ziel ist es, ein gemeinsames Verständnis für das Thema zu fördern.
+
+🇬🇧
+This repository contains graphics and illustrations for visualizing justice or administrative services, basic components and services, file directories, cloud infrastructures, and policies. The graphics were created during a research project on basic components and services in Germany (more information about the project: https://digitalservice.bund.de/blog/sieben-huerden-und-unzaehlige-chancen-bei-basiskomponenten-in-deutschland.). The goal is to promote a common understanding of the topic.
